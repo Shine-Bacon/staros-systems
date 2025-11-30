@@ -34,4 +34,4 @@
 
 ## 贡献
 
-欢迎提交Pull Request来优化我们的默认配置或增删软件包。请参阅主仓库的 [CONTRIBUTING.md](https://github.com/staros-systems/meta/blob/main/CONTRIBUTING.md)。
+欢迎提交Pull Request来优化我们的默认配置或增删软件包。请参阅主仓库的 [CONTRIBUTING.md]
