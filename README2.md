@@ -17,3 +17,21 @@
 ## 贡献
 
 请参阅主仓库的 [CONTRIBUTING.md]
+# StarOS Packages & Configs
+
+这个仓库包含了用于构建 StarOS 镜像的软件包列表、默认配置文件、桌面主题和启动脚本。
+
+## 结构
+
+*   `pkglists/` - 包含不同场景的软件包列表 (e.g., `base.txt`, `developer.txt`, `security.txt`)
+*   `configs/` - 系统的默认配置文件 (e.g., 针对 `fwupd`, `docker`, `ufw` 的配置)
+*   `themes/` - 自定义的 GTK、图标和 KDE 主题。
+*   `scripts/` - 在构建或安装后运行的各种脚本。
+
+## 使用
+
+这些资源和 `staros-installer` 以及镜像构建流水线紧密结合。
+
+## 贡献
+
+欢迎提交Pull Request来优化我们的默认配置或增删软件包。请参阅主仓库的 [CONTRIBUTING.md](https://github.com/staros-systems/meta/blob/main/CONTRIBUTING.md)。
