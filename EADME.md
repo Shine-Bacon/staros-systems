@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#">官网（即将到来）</a> •
   <a href="#">文档</a> •
-  <a href="https://">Discord</a> •
+  <a href="[https://">https://discord.gg/c5jtsAPfYP</a> •
 </p>
 
 ---
@@ -38,7 +38,7 @@ StarOS 是一个基于 **Arch Linux** 的、面向 **开发者、安全研究员
 我们是一个刚刚起步的开源项目，你的每一个想法和每一行代码都至关重要。
 
 *   **感兴趣？** 请先阅读 [CONTRIBUTING.md](./CONTRIBUTING.md) 了解如何开始。
-*   **加入讨论：** 在我们的 [Discord](https://) 或 [Telegram](https://t.me/YOUR_LINK) 社区中与我们交流。
+*   **加入讨论：** 在我们的 [Discord](https://discord.gg/c5jtsAPfYP)社区中与我们交流。
 *   **报告问题：** 使用各个仓库的Issue模板来报告Bug或提出新功能建议。
 
 ## 📜 许可证
