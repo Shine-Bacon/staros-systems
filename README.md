@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#">官网（即将到来）</a> •
   <a href="#">文档</a> •
-  <a href="[https://">https://discord.gg/c5jtsAPfYP</a> •
+  <a href="https://discord.gg/c5jtsAPfYP">Discord</a> •
 </p>
 
 ---
